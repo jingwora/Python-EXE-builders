@@ -48,6 +48,7 @@ This application combines the contents of two text files. It is built using Tkin
 ```
 sample_project/
 ├── functions.py       # Logic for checking and combining text files
+├── icon.ico           # Icon image
 ├── run.py             # Tkinter GUI
 ├── setup.py           # Configuration for cx_Freeze
 ├── requirements.txt   # Python dependencies
