@@ -6,7 +6,7 @@
 | **Attribute**  | **PyInstaller** | **cx_Freeze** | **Py2exe** | **Nuitka** | **PyOxidizer** |
 |----------------|-----------------|---------------|------------|------------|----------------|
 | **Description** | Converts Python scripts to standalone executables | Freezes Python scripts into executables for Windows, MacOS, and Linux | Converts Python scripts into Windows executables | Compiles Python code to C for performance improvements | Creates modern, optimized executables from Python scripts |
-| **Year**       | 2005            | 1999          | 2001       | 2012       | 2019           |
+| **Released Year**       | 2005            | 1999          | 2001       | 2012       | 2019           |
 | **Pros**       | - Easy to use<br>- One-file mode<br>- Broad community support | - Cross-platform<br>- Highly customizable<br>- Supports complex projects | - Simple configuration<br>- Well-suited for Windows | - Performance improvements<br>- Cross-platform<br>- Active development | - Modern tool<br>- Statically links dependencies<br>- Optimized executables |
 | **Cons**       | - Limited customization<br>- Larger executables in one-file mode | - Requires more configuration<br>- Slightly less extensive documentation | - Windows only<br>- Less active development | - More complex setup<br>- Longer build times | - More complex<br>- Less documented<br>- Newer and less proven |
 | **Popularity** | High            | Moderate      | Low        | Moderate   | Emerging       |
