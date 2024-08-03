@@ -11,6 +11,8 @@
 | **Cons**       | - Limited customization<br>- Larger executables in one-file mode | - Requires more configuration<br>- Slightly less extensive documentation | - Windows only<br>- Less active development | - More complex setup<br>- Longer build times | - More complex<br>- Less documented<br>- Newer and less proven |
 | **Popularity** | High            | Moderate      | Low        | Moderate   | Emerging       |
 | **Use Case**   | General-purpose; suitable for most projects | Complex projects needing fine-grained control and cross-platform support | Simple Windows applications | Performance-critical applications; cross-platform | Modern applications needing optimized and small executables |
+| **License**    | MIT License     | MIT License   | MIT License| Apache License 2.0 | Apache License 2.0 |
+
 
 ### Summary:
 
